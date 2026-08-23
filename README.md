@@ -1,120 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:001F3F,45:0366D6,100:38BDF8&amp;height=140&amp;section=header&amp;animation=fadeIn" width="100%" alt="Blue profile header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=1000&lines=Ruththiragayan+Sutharsan;Full-Stack+Developer;Data+Science+%26+Engineering+Undergraduate;AI%2FML+%7C+Software+Engineering" alt="Typing introduction" />
-
-<br />
-
-<p>
-  <img src="https://img.shields.io/badge/Data_Science_%26_Engineering-University_of_Moratuwa-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" alt="University of Moratuwa" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Moratuwa,_Sri_Lanka-6366F1?style=flat-square&logo=googlemaps&logoColor=white" alt="Moratuwa, Sri Lanka" />
-</p>
-
-<p>
-  <a href="https://portfolio-nu-silk-13.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Ruththra" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Ruththra&color=7C3AED&style=flat-square&label=Profile+Views" alt="Profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Ruththra?style=flat-square&color=6366F1&label=Followers" alt="GitHub followers" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/Ruththra?style=flat-square&color=A78BFA&label=Stars" alt="GitHub stars" />
-
-</div>
-
-<br />
-
----
-
-## About Me
-
-I am a **Data Science and Engineering undergraduate** at the **University of Moratuwa**, interested in building practical products across **software engineering**, **full-stack development**, **artificial intelligence**, and **machine learning**.
-
-My work includes AI agents, data-driven applications, microservice-based platforms, and responsive web experiences. I enjoy taking a project from an early idea through system design, implementation, testing, and deployment.
-
-I am currently expanding my experience in **AI-powered applications**, **backend systems**, **data analytics**, and **production-ready full-stack development**.
-
-**Open to:** Software Engineering Internships · AI/ML Opportunities · Data Science Projects · Research Collaborations · Open Source Contributions
-
----
-
-## Tech Stack
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c&theme=dark" alt="Python, TypeScript, JavaScript, Java, C++, and C" />
-</p>
-
-### Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="React, Next.js, HTML, CSS, and Tailwind CSS" />
-</p>
-
-### Backend & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,firebase,supabase&theme=dark" alt="Node.js, Express, FastAPI, PostgreSQL, MySQL, MongoDB, Firebase, and Supabase" />
-</p>
-
-### AI, Data & Tooling
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,opencv,docker,git,github,linux,vscode,vercel&theme=dark" alt="Scikit-learn, OpenCV, Docker, Git, GitHub, Linux, VS Code, and Vercel" />
-</p>
-
----
-
-## Featured Projects
-
-| Project | What it does | Main technologies |
-| --- | --- | --- |
-| [CrimePulse](https://github.com/Ruththra/Crime-Pulse) | Privacy-aware crime reporting platform with anonymous submissions, heatmaps, news, and administration tools. | React, TypeScript, Ballerina, MongoDB |
-| [TokenForge Router](https://github.com/Ruththra/AI-Agent) | Hybrid AI agent that solves suitable tasks locally and routes uncertain tasks to hosted models. | Python, Fireworks AI, Docker |
-| [Video Captioning Agent](https://github.com/Ruththra/Video-Caption-Agent) | Dockerized multimodal pipeline that produces grounded video captions in four writing styles. | Python, VLMs, FFmpeg, Docker |
-| [AUSDAV Connect](https://github.com/Ruththra/ausdav) | Responsive student-development association website backed by cloud services. | React, TypeScript, Tailwind CSS, Supabase |
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ruththra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ruththra's GitHub statistics" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruththra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+<img src="https://avatars.githubusercontent.com/u/169025729?v=4" width="120" height="120" alt="Ruththra" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com/?user=Ruththra&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=30&amp;duration=2600&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;cursor=true&amp;lines=Ruththiragayan+Sutharsan;CSE+%40+University+of+Moratuwa;Full-Stack+Developer+%7C+AI%2FML+Enthusiast" alt="Typing introduction: Ruththiragayan Sutharsan, CSE at University of Moratuwa" />
+
+<p>
+  I enjoy turning ideas and data into practical, reliable digital products.
+</p>
+
+<p>
+  <a href="https://portfolio-nu-silk-13.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-0969DA?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ruththra?tab=followers">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-0D419D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/University-University_of_Moratuwa-1F6FEB?style=flat-square" alt="University of Moratuwa" />
+  <img src="https://img.shields.io/badge/Field-Data_Science_%26_Engineering-2388FF?style=flat-square" alt="Data Science and Engineering" />
+  <img src="https://img.shields.io/badge/Location-Moratuwa,_Sri_Lanka-58A6FF?style=flat-square" alt="Moratuwa, Sri Lanka" />
+</p>
 
 </div>
 
----
+A Quick Introduction
 
-## Contribution Activity
+I am Ruththiragayan Sutharsan, a Data Science and Engineering undergraduate at the University of Moratuwa. I work at the intersection of software, data, and intelligent systems—building responsive interfaces, backend services, AI workflows, and data-driven applications.
+
+I value clean architecture, thoughtful user experiences, practical experimentation, and learning by building real systems from end to end.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>What I enjoy building</h3>
+      <ul>
+        <li>Full-stack web applications</li>
+        <li>REST APIs and backend services</li>
+        <li>AI agents and intelligent workflows</li>
+        <li>Data analysis and ML solutions</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Currently exploring</h3>
+      <ul>
+        <li>Production-ready AI applications</li>
+        <li>Machine learning evaluation</li>
+        <li>Scalable backend architecture</li>
+        <li>Cloud deployment and CI/CD</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+My Toolkit
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruththra&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+Core Languages
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c&amp;theme=dark" alt="Python, TypeScript, JavaScript, Java, C++, and C" />
+
+Web Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css,tailwind&amp;theme=dark" alt="React, Next.js, Node.js, Express, FastAPI, HTML, CSS, and Tailwind CSS" />
+
+Data, Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,sklearn,docker,git,linux,vercel&amp;theme=dark" alt="Databases, machine learning, Docker, Git, Linux, and Vercel" />
 
 </div>
 
----
+Areas I Focus On
+
+Software Engineering
+Designing maintainable applications, APIs, reusable components, and responsive product experiences.
+
+Artificial Intelligence & Machine Learning
+Building intelligent workflows, experimenting with models, and integrating AI capabilities into useful applications.
+
+Data Science & Analytics
+Exploring data, evaluating patterns, and transforming results into clear insights and practical decisions.
+
+GitHub Activity
 
 <div align="center">
 
-*Building useful systems by combining software engineering, data, and intelligent automation.*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruththra&amp;bg_color=0D1117&amp;color=58A6FF&amp;line=1F6FEB&amp;point=79C0FF&amp;area=true&amp;hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Footer" />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Ruththra&amp;label=Profile+Views&amp;color=0969DA&amp;style=flat-square" alt="Profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Ruththra?label=Followers&amp;style=flat-square&amp;color=1F6FEB" alt="GitHub followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Ruththra?label=Stars&amp;style=flat-square&amp;color=58A6FF" alt="GitHub stars" />
+
+</div>
+
+<div align="center">
+
+Open to internships, collaborations, and open-source opportunities
+
+Learning continuously. Building thoughtfully. Improving with every project.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:38BDF8,55:0366D6,100:001F3F&amp;height=10&amp;section=footer" width="100%" alt="Blue footer" />
 
 </div>
