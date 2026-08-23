@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:001F3F,45:0366D6,100:38BDF8&amp;height=140&amp;section=header&amp;animation=fadeIn" width="100%" alt="Blue profile header" />
 
-<img src="https://avatars.githubusercontent.com/u/169025729?v=4" width="120" height="120" alt="Ruththra" />
-
-<br /><br />
+<br />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=30&amp;duration=2600&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;cursor=true&amp;lines=Ruththiragayan+Sutharsan;CSE+%40+University+of+Moratuwa;Full-Stack+Developer+%7C+AI%2FML+Enthusiast" alt="Typing introduction: Ruththiragayan Sutharsan, CSE at University of Moratuwa" />
 
